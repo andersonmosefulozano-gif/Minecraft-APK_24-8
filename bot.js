@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: ' devario.aternos.host',
+        host: 'devario.aternos.host',
         port: 20793,
         username: 'Raboot_356',
         version: false
